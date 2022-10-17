@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Cody Palmer 👋</h1>
+<h1 align="center">Hello, my name is Cody Palmer 👋</h1>
 <h3 align="center">I am currently a student attending @Codeup in Dallas, TX for Full-Stack Web Development.</h3>
 
 - 🔭 I’m currently working in **Java**
