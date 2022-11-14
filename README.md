@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Java**
 
-- 🌱 I’m currently learning **ArrayList, HashMaps, and Collections.**
+- 🌱 I’m currently learning **back-end developement.**
 
 - 📫 How to reach me **codyryanpalmer@gmail.com**
 
