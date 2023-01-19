@@ -1,9 +1,9 @@
 <h1 align="center">Hello, my name is Cody Palmer 👋</h1>
-<h3 align="center">I am currently a student attending @Codeup in Dallas, TX for Full-Stack Web Development.</h3>
+<h3 align="center">I am a recent graduate of @Codeup's Full-Stack Web Development Course in Dallas, TX.</h3>
 
 - 🔭 I’m currently working on creating a **Full Stack Web Applicaiton**
 
-- 🌱 I’m currently learning **back-end developement.**
+- 🌱 I’m currently learning and improving my knowledge of **Java and Javascript.**
 
 - 📫 How to reach me **codyryanpalmer@gmail.com**
 
