@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Cody Palmer</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h1 align="center">Hello there, I'm Cody Palmer 👋</h1>
+<h3 align="center">I am a passionate frontend developer. 💻</h3>
 
-- 🔭 I’m currently working on **an API project**
+- 📈 I’m currently working on **an API project**
 
-- 🌱 I’m currently learning **Advanced JavaScript and APIs**
+- 📝 I’m currently learning **Advanced JavaScript and APIs**
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 
